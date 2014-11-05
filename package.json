@@ -1,0 +1,18 @@
+{
+  "name": "compose-router",
+  "version": "1.0.0",
+  "description": "Front-end router for use with Rails and Turbolinks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "qs": "^2.3.2",
+    "routes": "^1.2.0"
+  },
+  "devDependencies": {
+    "mochify": "^1.7.0"
+  }
+}
